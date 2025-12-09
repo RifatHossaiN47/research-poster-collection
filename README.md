@@ -2,6 +2,10 @@
 
 A curated collection of academic research posters showcasing scientific work, including final versions, editable source files, and preview images.
 
+## 🖼️ Poster Preview
+
+![Research Poster Preview](previews/poster-preview.png)
+
 ## 📋 Repository Overview
 
 This repository contains professionally designed research posters in various formats, making it easy to view, present, or modify for academic conferences, symposiums, and presentations.
